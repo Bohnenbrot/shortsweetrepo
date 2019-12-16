@@ -1,0 +1,42 @@
+
+
+<package>
+	<id>com.shortsweetrepo.kodi17.6</id>
+	<name>kodi17.6</name>
+	<version>17.6</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.4</maxiOS>
+			<otherVersions>untested</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+             <package>mobilesubstrate</package>
+        </dependencies>
+	<descriptionlist>
+	<shortDescription>untested package</shortDescription>
+	<descriptionlist>
+		<description>untested.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's my logothing</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>initial release</change>
+		<change>untested yet</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
